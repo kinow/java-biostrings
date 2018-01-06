@@ -23,7 +23,7 @@ public class BString implements XString {
 
     @Override
     public int hashCode() {
-        return Objects.hash(bigString);
+        return Objects.hashCode(bigString);
     }
 
     @Override
