@@ -1,4 +1,4 @@
-#Java Biostrings
+# Java Biostrings
 
 A Java port of the [R Biostrings](https://bioconductor.org/packages/release/bioc/html/Biostrings.html)
 library.
